@@ -11,6 +11,7 @@
 ## DEVELOPERS
 
 * [Libraries](developers/libraries-1.0.0/README.md)
+  * [Console](developers/libraries-1.0.0/console.md)
   * [Client](developers/libraries-1.0.0/client.md)
   * [UI](developers/libraries-1.0.0/ui.md)
   * [Globals](developers/libraries-1.0.0/globals.md)

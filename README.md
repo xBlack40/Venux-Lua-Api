@@ -12,5 +12,23 @@ This website documents the configuration options, usage and LUA API of [venux.cc
 
 steamapps\common\Counter-Strike Global Offensive\venux\lua
 
+## Callbacks
+
+Console  
+Client  
+UI  
+Globals  
+Engine  
+Render  
+Entitylist  
+Cmd  
+Events  
+Utils  
+File  
+Web  
+  
+  
+
+
 
 
