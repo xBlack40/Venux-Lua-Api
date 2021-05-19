@@ -25,7 +25,12 @@ Cmd
 Events  
 Utils  
 File  
-Web  
+Web
+
+### Key Binds Callbacks
+
+KeyMode  
+KeyBinds  
   
   
 
