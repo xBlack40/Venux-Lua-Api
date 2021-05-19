@@ -30,10 +30,20 @@ Web
 ### Key Binds Callbacks
 
 KeyMode  
-KeyBinds  
-  
-  
+KeyBinds
 
+### Classes
+
+SetPlayerInfo  
+Vector  
+Color  
+Entity  
+Hitboxes  
+GameEvent  
+CPlayer  
+CWeapon  
+CmdButtons  
+ShotInfo
 
 
 
