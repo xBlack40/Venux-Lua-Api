@@ -18,15 +18,15 @@
 
 * `LoadScriptFile(string name)`
 
-**Runs the lua you want.**
+**`Runs the lua you want.`**
 
 * `UnloadScriptFile(string name)`
 
-**Disable the lua you want.**
+**`Disable the lua you want.`**
 
 * `EventLog(string name, int theme)`
 
-**Creates an Event Log.**
+**`Creates an Event Log.`**
 
 ## **Event Log Themes**
 
