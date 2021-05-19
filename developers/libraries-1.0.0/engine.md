@@ -18,9 +18,3 @@
 * `TakingScreenshot()`
 * `PlayerInfo(int index)`
 
-#### 
-
-|  |
-| :--- |
-
-
