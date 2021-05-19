@@ -4,6 +4,7 @@
 
 ## FAQ <a id="faq-lua"></a>
 
+* [Key Binds](faq-lua/key-binds.md)
 * [Config Names](faq-lua/config-names.md)
 * [Examples](faq-lua/examples.md)
 

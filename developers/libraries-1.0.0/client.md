@@ -1,6 +1,6 @@
 # Client
 
-* `AddCallback(string name, function)`
+* `AddCallback(string text, function)`
 
 {% tabs %}
 {% tab title="Draw" %}
@@ -16,15 +16,15 @@
 {% endtab %}
 {% endtabs %}
 
-* `LoadScriptFile(string name)`
+* `LoadScriptFile(string text)`
 
 **`Runs the lua you want.`**
 
-* `UnloadScriptFile(string name)`
+* `UnloadScriptFile(string text)`
 
 **`Disable the lua you want.`**
 
-* `EventLog(string name, int theme)`
+* `EventLog(string text, int theme)`
 
 **`Creates an Event Log.`**
 
